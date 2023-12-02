@@ -50,7 +50,8 @@
 ![Snake animation](https://github.com/marquesluana/marquesluana/blob/output/github-contribution-grid-snake.svg)
 
 ### Now, if you excuse me, i'm...
-<img src="https://media.tenor.com/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif" width="100px"><img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="100px">
+<img src="https://media.tenor.com/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif" width="150px"><img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="150px">
+<img src="https://media.tenor.com/k1tDp7A1ys8AAAAC/programmer-developer.gif" width="75px">
 
 <!--
 Here are some ideas to get you started:
