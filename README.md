@@ -8,7 +8,7 @@
 ### Welcome to my Github profile. Take a sit and make yourself at home.
 
 - 🔭 I’m currently working on Personnel Department but looking for a career transition in technology area, specifically as Back-end Developer. <br>
--     Atualmente eu estou trabalhando no Departamento Pessoal, mas buscando uma transição de carreira para a área de tecnologia, especificamente como Desenvolvedora de Back-end.
+Atualmente eu estou trabalhando no Departamento Pessoal, mas buscando uma transição de carreira para a área de tecnologia, especificamente como Desenvolvedora de Back-end.
 
 ## Contatos:
 
@@ -20,7 +20,7 @@
 <div>
 <a href="https://github.com/marquesluana">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesluana&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesluana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=marquesluana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
