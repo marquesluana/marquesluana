@@ -7,11 +7,12 @@
 ## Hello, Devs!! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ### Welcome to my Github profile. Take a sit and make yourself at home.
 
-<img src="https://github.com/marquesluana/marquesluana/assets/125707361/75d14f34-7194-4c55-bcc5-0a6eb4cb88fe" width="350px">
+<img src="https://github.com/marquesluana/marquesluana/assets/125707361/75d14f34-7194-4c55-bcc5-0a6eb4cb88fe" width="330px">
+</br>
+:briefcase: I’m currently working on Personnel Department but looking for a career transition in technology area, specifically as Back-end Developer.
 
+_- Atualmente eu estou trabalhando no Departamento Pessoal, mas buscando uma transição de carreira para a área de tecnologia, especificamente como Desenvolvedora de Back-end._
 
-- :briefcase: I’m currently working on Personnel Department but looking for a career transition in technology area, specifically as Back-end Developer. <br>
-  Atualmente eu estou trabalhando no Departamento Pessoal, mas buscando uma transição de carreira para a área de tecnologia, especificamente como Desenvolvedora de Back-end.
 
 ### Languages and Tools:
 
