@@ -9,15 +9,13 @@
 
 <img src="https://github.com/marquesluana/marquesluana/assets/125707361/75d14f34-7194-4c55-bcc5-0a6eb4cb88fe" width="330px">
 </br>
-:briefcase: I’m currently working on Personnel Department but looking for a career transition in technology area, specifically as Back-end Developer.
+:briefcase: I’m currently working on Personnel Department but looking for a career transition in technology area, specifically as Data Analyst.
 
-_- Atualmente eu estou trabalhando no Departamento Pessoal, mas buscando uma transição de carreira para a área de tecnologia, especificamente como Desenvolvedora de Back-end._
+_- Atualmente eu estou trabalhando no Departamento Pessoal, mas buscando uma transição de carreira para a área de tecnologia, especificamente como Analista de dados._
 
 
 ### Languages and Tools:
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 
