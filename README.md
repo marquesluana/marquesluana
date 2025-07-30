@@ -9,9 +9,9 @@
 
 <img src="https://github.com/marquesluana/marquesluana/assets/125707361/75d14f34-7194-4c55-bcc5-0a6eb4cb88fe" width="330px">
 </br>
-:briefcase: I’m currently working on Personnel Department but looking for a career transition in technology area, specifically as Data Analyst.
+:briefcase: I’m looking for a career transition in technology area, specifically as Data Analyst.
 
-_- Atualmente eu estou trabalhando no Departamento Pessoal, mas buscando uma transição de carreira para a área de tecnologia, especificamente como Analista de dados._
+_- Atualmente eu estou buscando uma transição de carreira para a área de tecnologia, especificamente como Analista de dados._
 
 
 <br />
@@ -30,21 +30,6 @@ _- Atualmente eu estou trabalhando no Departamento Pessoal, mas buscando uma tra
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesluana&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=marquesluana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ### Now, if you excuse me, i'm...
 <img src="https://media.tenor.com/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif" width="150px"><img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="150px">
